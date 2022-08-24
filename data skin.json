@@ -1,9 +1,9 @@
 {
 	"ADS": {
-		 "rewarde_type": "unity",
-		"native_type": "unity",
-		"inter_type": "unity",
-		"banner_type": "unity",
+		 "rewarde_type": "yandex",
+		"native_type": "yandex",
+		"inter_type": "yandex",
+		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
 		"cpa_title": "admob",
@@ -24,10 +24,10 @@
 
 		"ironsource_id": "11c7e1165",
 
-		"interstitial_yandex": "adf-279013/966533",
-		"banner_yandex": "adf-279013/966533",
-		"native_yandex": "adf-279013/966533",
-		"rewarde_yandex": "adf-279013/966487",
+		"interstitial_yandex": "R-M-1798872-7",
+		"banner_yandex": "R-M-1798872-5",
+		"native_yandex": "R-M-1798872-6",
+		"rewarde_yandex": "R-M-1798872-8",
 
 		"interstitial_admob": "ca-app-pub-3940256099942544/1033173712",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
