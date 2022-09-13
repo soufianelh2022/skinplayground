@@ -1,7 +1,7 @@
 {
 	"ADS": {
 		 "rewarde_type": "yandex",
-		"native_type": "yandex",
+		"native_type": "admob",
 		"inter_type": "yandex",
 		"banner_type": "yandex",
 
@@ -31,15 +31,15 @@
 
 		"interstitial_admob": "ca-app-pub-3251553828797281/4924863620",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-3251553828797281/3811888667",
+		"native_admob": "ca-app-pub-8460609214398485/1691431281",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 
 		"interstitial_admob1": "ca-app-p12",
-		"native_admob1": "ca-app-pub-567",
+		"native_admob1": "ca-app-pub-8460609214398485/1691431281",
 		"rewarde_admob1": "ca-app-pub-3940256099942544/5354046379",
 
 		"interstitial_admob2": "ca-app-pub-3940256099942544/1033173712",
-		"native_admob2": "ca-app-pub-567",
+		"native_admob2": "ca-app-pub-8460609214398485/1691431281",
 		"rewarde_admob2": "ca-app-pub-3940256099942544/5354046379",
 
 		
