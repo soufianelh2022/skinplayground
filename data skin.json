@@ -1,7 +1,7 @@
 {
 	"ADS": {
 		 "rewarde_type": "yandex",
-		"native_type": "admob",
+		"native_type": "yandex",
 		"inter_type": "admob",
 		"banner_type": "yandex",
 
