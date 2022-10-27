@@ -1,8 +1,8 @@
 {
 	"ADS": {
 		 "rewarde_type": "yandex",
-		"native_type": "yandex",
-		"inter_type": "yandex",
+		"native_type": "admob",
+		"inter_type": "admob",
 		"banner_type": "yandex",
 
 		"cpa_image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
@@ -29,9 +29,9 @@
 		"native_yandex": "R-M-1695214-6",
 		"rewarde_yandex": "R-M-1695214-4",
 
-		"interstitial_admob": "ca-app-pub-8460609214398485/3769981478",
+		"interstitial_admob": "ca-app-pub-1494253779810891/1860146155",
 		"banner_admob": "ca-app-pub-3940256099942544/6300978111",
-		"native_admob": "ca-app-pub-1650715772027459/5093292111",
+		"native_admob": "ca-app-pub-1494253779810891/6685059433",
 		"rewarde_admob": "ca-app-pub-3940256099942544/5224354917",
 
 		"interstitial_admob1": "ca-app-pub-8460609214398485/3769981478",
